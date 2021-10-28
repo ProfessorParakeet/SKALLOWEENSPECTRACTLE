@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FilipN.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Filip Nervous0000" x="2" y="2" width="495" height="625" frameX="-4" frameY="-4" frameWidth="529" frameHeight="632"/>
+	<SubTexture name="Filip Nervous0001" x="2" y="2" width="495" height="625" frameX="-4" frameY="-4" frameWidth="529" frameHeight="632"/>
+	<SubTexture name="Filip Nervous0002" x="502" y="2" width="529" height="585" frameX="0" frameY="-38" frameWidth="529" frameHeight="632"/>
+	<SubTexture name="Filip Nervous0003" x="502" y="2" width="529" height="585" frameX="0" frameY="-38" frameWidth="529" frameHeight="632"/>
+	<SubTexture name="Filip Nervous0004" x="1036" y="2" width="509" height="632" frameX="-2" frameY="0" frameWidth="529" frameHeight="632"/>
+	<SubTexture name="Filip Nervous0005" x="2" y="639" width="509" height="620" frameX="-2" frameY="-12" frameWidth="529" frameHeight="632"/>
+	<SubTexture name="Filip Nervous0006" x="516" y="639" width="509" height="613" frameX="-2" frameY="-18" frameWidth="529" frameHeight="632"/>
+	<SubTexture name="Filip Nervous0007" x="516" y="639" width="509" height="613" frameX="-2" frameY="-18" frameWidth="529" frameHeight="632"/>
+	<SubTexture name="Filip Nervous0008" x="516" y="639" width="509" height="613" frameX="-2" frameY="-18" frameWidth="529" frameHeight="632"/>
+</TextureAtlas>

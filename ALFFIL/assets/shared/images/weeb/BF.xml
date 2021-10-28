@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfp0000" x="2" y="2" width="437" height="482" frameX="-30" frameY="-15" frameWidth="467" frameHeight="514"/>
+	<SubTexture name="bfp0001" x="2" y="2" width="437" height="482" frameX="-30" frameY="-15" frameWidth="467" frameHeight="514"/>
+	<SubTexture name="bfp0002" x="444" y="2" width="446" height="479" frameX="0" frameY="-35" frameWidth="467" frameHeight="514"/>
+	<SubTexture name="bfp0003" x="444" y="2" width="446" height="479" frameX="0" frameY="-35" frameWidth="467" frameHeight="514"/>
+	<SubTexture name="bfp0004" x="895" y="2" width="437" height="497" frameX="-30" frameY="0" frameWidth="467" frameHeight="514"/>
+	<SubTexture name="bfp0005" x="1337" y="2" width="437" height="487" frameX="-30" frameY="-9" frameWidth="467" frameHeight="514"/>
+	<SubTexture name="bfp0006" x="2" y="2" width="437" height="482" frameX="-30" frameY="-14" frameWidth="467" frameHeight="514"/>
+	<SubTexture name="bfp0007" x="2" y="2" width="437" height="482" frameX="-30" frameY="-14" frameWidth="467" frameHeight="514"/>
+	<SubTexture name="bfp0008" x="2" y="2" width="437" height="482" frameX="-30" frameY="-14" frameWidth="467" frameHeight="514"/>
+</TextureAtlas>

@@ -1,0 +1,48 @@
+{
+	"storyName": "Skalloween Spectracle",
+	"hideFreeplay": false,
+	"weekBackground": "ska",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"eleventh hour",
+			"alfiep",
+			[
+				226,
+				33,
+				113
+			]
+		],
+		[
+			"superduperstitious",
+			"filipp",
+			[
+				255,
+				155,
+				0
+			]
+		],
+		[
+			"all saints scramble",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Skalloween Spectracle"
+}

@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				96,
+				384
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "ALFIE Left Pose0"
+		},
+		{
+			"offsets": [
+				-10,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "ALFIE DOWN POSE0"
+		},
+		{
+			"offsets": [
+				51,
+				461
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "ALFIE Up Pose0"
+		},
+		{
+			"offsets": [
+				46,
+				360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "ALFIE Pose Left0"
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				15,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				35,
+				394
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ALFIE Idle0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				96,
+				384
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ALFIE Left Pose0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				270
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ALFIE DOWN POSE0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				51,
+				461
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ALFIE Up Pose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				360
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ALFIE Pose Left0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AlfieOG",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "alfieog",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		76,
+		109
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

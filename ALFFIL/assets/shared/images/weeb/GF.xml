@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfp0000" x="2" y="2" width="364" height="484" frameX="-6" frameY="-14" frameWidth="384" frameHeight="506"/>
+	<SubTexture name="gfp0001" x="2" y="2" width="364" height="484" frameX="-6" frameY="-14" frameWidth="384" frameHeight="506"/>
+	<SubTexture name="gfp0002" x="371" y="2" width="384" height="497" frameX="0" frameY="-9" frameWidth="384" frameHeight="506"/>
+	<SubTexture name="gfp0003" x="371" y="2" width="384" height="497" frameX="0" frameY="-9" frameWidth="384" frameHeight="506"/>
+	<SubTexture name="gfp0004" x="760" y="2" width="364" height="499" frameX="-6" frameY="0" frameWidth="384" frameHeight="506"/>
+	<SubTexture name="gfp0005" x="1129" y="2" width="364" height="489" frameX="-6" frameY="-9" frameWidth="384" frameHeight="506"/>
+	<SubTexture name="gfp0006" x="2" y="2" width="364" height="484" frameX="-6" frameY="-13" frameWidth="384" frameHeight="506"/>
+	<SubTexture name="gfp0007" x="2" y="2" width="364" height="484" frameX="-6" frameY="-13" frameWidth="384" frameHeight="506"/>
+	<SubTexture name="gfp0008" x="2" y="2" width="364" height="484" frameX="-6" frameY="-13" frameWidth="384" frameHeight="506"/>
+</TextureAtlas>
